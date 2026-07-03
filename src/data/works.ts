@@ -30,7 +30,7 @@ const works: Work[] = [
     description: 'Ho creato diversi contenuti per FotoGraficAnnarita, fotografa specializzata in newborn, maternity, family photography, shooting ed eventi. Ho raccontato lo shooting newborn attraverso una narrazione emozionale, con suoni e clip pensati per rendere ogni momento indimenticabile.',
     type: 'video',
     cover: '',
-    src: '/videos/video-finito.mov',
+    src: '/videos/video-finito.mp4',
   },
   {
     id: '05',
@@ -38,7 +38,7 @@ const works: Work[] = [
     description: 'Storica matricola del calcio pugliese, ho voluto raccontare una partita e il calore della propria tifoseria. Riprese dinamiche, stop motion e SFX per catturare l\'energia del match e la passione dei tifosi.',
     type: 'video',
     cover: '',
-    src: '/videos/film.mov',
+    src: '/videos/film.mp4',
   },
   {
     id: '03',

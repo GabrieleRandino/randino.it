@@ -14,10 +14,10 @@ const projects: Project[] = [
   { id: 'pn-v13', title: '', category: 'Pic Nic', type: 'video', src: '/videos/picnic/reel2.mp4', cover: '/images/covers/picnic-reel2.jpg' },
   { id: 'pn-v10', title: '', category: 'Pic Nic', type: 'video', src: '/videos/picnic/reel completo da postare.mp4', cover: '/images/covers/picnic-reel_completo_da_postare.jpg' },
   { id: 'pn-v23', title: '', category: 'Pic Nic', type: 'video', src: '/videos/picnic/videofuinito.mp4', cover: '/images/covers/picnic-videofuinito.jpg' },
-  { id: 'pn-v20', title: '', category: 'Pic Nic', type: 'video', src: '/videos/picnic/video picnic 2.mov', cover: '/images/covers/picnic-video_picnic_2.jpg' },
+  { id: 'pn-v20', title: '', category: 'Pic Nic', type: 'video', src: '/videos/picnic/video picnic 2.mp4', cover: '/images/covers/picnic-video_picnic_2.jpg' },
   { id: 'pn-v2', title: '', category: 'Pic Nic', type: 'video', src: '/videos/picnic/Sequenza 01.mp4', cover: '/images/covers/picnic-Sequenza_01.jpg' },
   { id: 'pn-v17', title: '', category: 'Pic Nic', type: 'video', src: '/videos/picnic/stiamo cercando talenti veri.mp4', cover: '/images/covers/picnic-stiamo_cercando_talenti_veri.jpg' },
-  { id: 'pn-v18', title: '', category: 'Pic Nic', type: 'video', src: '/videos/picnic/video 1 maggio.mov', cover: '/images/covers/picnic-video_1_maggio.jpg' },
+  { id: 'pn-v18', title: '', category: 'Pic Nic', type: 'video', src: '/videos/picnic/video 1 maggio.mp4', cover: '/images/covers/picnic-video_1_maggio.jpg' },
   { id: 'pn-v0', title: '', category: 'Pic Nic', type: 'video', src: '/videos/video-apertura.mp4', cover: '/images/covers/picnic-video-apertura.jpg' },
   { id: 'pn-v19', title: '', category: 'Pic Nic', type: 'video', src: '/videos/picnic/video finito.mp4', cover: '/images/covers/picnic-video_finito.jpg' },
   { id: 'pn-v15', title: '', category: 'Pic Nic', type: 'video', src: '/videos/picnic/seedance-1.mp4', cover: '/images/covers/picnic-seedance-1.jpg' },
@@ -64,22 +64,22 @@ const projects: Project[] = [
   { id: 'pn-f19', title: '', category: 'Pic Nic', type: 'image', src: '/images/picnic-foto-editate/Tavola da disegno 45.jpg' },
 
 // === CRIANZA CATERING PUGLIESE ===
-  { id: 'cz-2', title: 'Crianza 2', category: 'Crianza Catering Pugliese', type: 'video', src: '/videos/crianza/Crianza 2.mov', cover: '/images/covers/crianza-2.jpg' },
-  { id: 'cz-tendenza', title: 'Crianza | Senza Audio Tendenza', category: 'Crianza Catering Pugliese', type: 'video', src: '/videos/crianza/video crianza senza audio tendenza.mov', cover: '/images/covers/crianza-tendenza.jpg' },
+  { id: 'cz-2', title: 'Crianza 2', category: 'Crianza Catering Pugliese', type: 'video', src: '/videos/crianza/Crianza 2.mp4', cover: '/images/covers/crianza-2.jpg' },
+  { id: 'cz-tendenza', title: 'Crianza | Senza Audio Tendenza', category: 'Crianza Catering Pugliese', type: 'video', src: '/videos/crianza/video crianza senza audio tendenza.mp4', cover: '/images/covers/crianza-tendenza.jpg' },
   // === STARS LEAGUE ===
   { id: 'sl-completo', title: 'Stars League | Prima Edizione', category: 'Stars League', type: 'video', src: '/videos/completo.mp4', cover: '/images/covers/completo.jpg' },
   { id: 'sl-seconda', title: 'Stars League | Seconda Edizione', category: 'Stars League', type: 'video', src: '/videos/stars-league.mp4', cover: '/images/covers/stars-league.jpg' },
-  { id: 'sl-v1', title: 'Stars League | Video 1', category: 'Stars League', type: 'video', src: '/videos/stars-league/video1-stars.mov', cover: '/images/covers/video1-stars.jpg' },
-  { id: 'sl-0526', title: 'Stars League | 0526', category: 'Stars League', type: 'video', src: '/videos/stars-league/0526.mov', cover: '/images/covers/0526.jpg' },
+  { id: 'sl-v1', title: 'Stars League | Video 1', category: 'Stars League', type: 'video', src: '/videos/stars-league/video1-stars.mp4', cover: '/images/covers/video1-stars.jpg' },
+  { id: 'sl-0526', title: 'Stars League | 0526', category: 'Stars League', type: 'video', src: '/videos/stars-league/0526.mp4', cover: '/images/covers/0526.jpg' },
 
   // === BRINMALTE ===
-  { id: 'bm-1', title: 'BrinMalte', description: 'Video promozionale per BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO1.mov', cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-2', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO2.mov', cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-3', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO3.mov', cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-4', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO4.mov', cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-5', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO5.mov', cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-6', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO6.mov', cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-7', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO7.mov', cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-1', title: 'BrinMalte', description: 'Video promozionale per BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO1.mp4', cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-2', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO2.mp4', cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-3', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO3.mp4', cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-4', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO4.mp4', cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-5', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO5.mp4', cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-6', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO6.mp4', cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-7', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: '/videos/brinmalte/VIDEO7.mp4', cover: '/images/brinmalte/COPERTINA1.jpg' },
 ]
 
 export default projects
