@@ -1,2 +1,6 @@
+public/videos/
+scripts/
 .DS_Store
 dist/
+.vercel
+.env*
