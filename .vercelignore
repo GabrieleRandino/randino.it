@@ -1,0 +1,8 @@
+node_modules
+.git
+.DS_Store
+*.psd
+*.ai
+*.zip
+*.tar
+*.gz
