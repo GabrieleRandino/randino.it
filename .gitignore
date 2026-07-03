@@ -1,6 +1,2 @@
-public/videos/*.mp4
-public/videos/*.mov
-public/videos/*.MOV
-public/videos/*.MP4
 .DS_Store
 dist/
