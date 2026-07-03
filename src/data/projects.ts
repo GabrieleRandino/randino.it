@@ -66,22 +66,22 @@ const projects: Project[] = [
   { id: 'pn-f19', title: '', category: 'Pic Nic', type: 'image', src: '/images/picnic-foto-editate/Tavola da disegno 45.jpg' },
 
 // === CRIANZA CATERING PUGLIESE ===
-  { id: 'cz-2', title: 'Crianza 2', category: 'Crianza Catering Pugliese', type: 'video', src: `${CLOUD_BASE}/crianza/Crianza 2`, cover: '/images/covers/crianza-2.jpg' },
-  { id: 'cz-tendenza', title: 'Crianza | Senza Audio Tendenza', category: 'Crianza Catering Pugliese', type: 'video', src: `${CLOUD_BASE}/crianza/video crianza senza audio tendenza`, cover: '/images/covers/crianza-tendenza.jpg' },
+  { id: 'cz-2', title: '', category: 'Crianza Catering Pugliese', type: 'video', src: `${CLOUD_BASE}/crianza/Crianza 2`, cover: '/images/covers/crianza-2.jpg' },
+  { id: 'cz-tendenza', title: '', category: 'Crianza Catering Pugliese', type: 'video', src: `${CLOUD_BASE}/crianza/video crianza senza audio tendenza`, cover: '/images/covers/crianza-tendenza.jpg' },
   // === STARS LEAGUE ===
-  { id: 'sl-completo', title: 'Stars League | Prima Edizione', category: 'Stars League', type: 'video', src: `${CLOUD_BASE}/completo`, cover: '/images/covers/completo.jpg' },
-  { id: 'sl-seconda', title: 'Stars League | Seconda Edizione', category: 'Stars League', type: 'video', src: `${CLOUD_BASE}/stars-league`, cover: '/images/covers/stars-league.jpg' },
-  { id: 'sl-v1', title: 'Stars League | Video 1', category: 'Stars League', type: 'video', src: `${CLOUD_BASE}/stars-league/video1-stars`, cover: '/images/covers/video1-stars.jpg' },
-  { id: 'sl-0526', title: 'Stars League | 0526', category: 'Stars League', type: 'video', src: `${CLOUD_BASE}/stars-league/0526`, cover: '/images/covers/0526.jpg' },
+  { id: 'sl-completo', title: '', category: 'Stars League', type: 'video', src: `${CLOUD_BASE}/completo`, cover: '/images/covers/completo.jpg' },
+  { id: 'sl-seconda', title: '', category: 'Stars League', type: 'video', src: `${CLOUD_BASE}/stars-league`, cover: '/images/covers/stars-league.jpg' },
+  { id: 'sl-v1', title: '', category: 'Stars League', type: 'video', src: `${CLOUD_BASE}/stars-league/video1-stars`, cover: '/images/covers/video1-stars.jpg' },
+  { id: 'sl-0526', title: '', category: 'Stars League', type: 'video', src: `${CLOUD_BASE}/stars-league/0526`, cover: '/images/covers/0526.jpg' },
 
   // === BRINMALTE ===
-  { id: 'bm-1', title: 'BrinMalte', description: 'Video promozionale per BrinMalte', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO1`, cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-2', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO2`, cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-3', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO3`, cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-4', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO4`, cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-5', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO5`, cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-6', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO6`, cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-7', title: 'BrinMalte', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO7`, cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-1', title: '', description: 'Video promozionale per BrinMalte', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO1`, cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-2', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO2`, cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-3', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO3`, cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-4', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO4`, cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-5', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO5`, cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-6', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO6`, cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-7', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO7`, cover: '/images/brinmalte/COPERTINA1.jpg' },
 ]
 
 export default projects
