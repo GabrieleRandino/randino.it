@@ -75,13 +75,13 @@ const projects: Project[] = [
   { id: 'sl-0526', title: '', category: 'Stars League', type: 'video', src: `${CLOUD_BASE}/stars-league/0526`, cover: '/images/covers/0526.jpg' },
 
   // === BRINMALTE ===
-  { id: 'bm-1', title: '', description: 'Video promozionale per BrinMalte', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO1`, cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-2', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO2`, cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-3', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO3`, cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-4', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO4`, cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-5', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO5`, cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-6', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO6`, cover: '/images/brinmalte/COPERTINA1.jpg' },
-  { id: 'bm-7', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO7`, cover: '/images/brinmalte/COPERTINA1.jpg' },
+  { id: 'bm-1', title: '', description: 'Video promozionale per BrinMalte', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO1` },
+  { id: 'bm-2', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO2` },
+  { id: 'bm-3', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO3` },
+  { id: 'bm-4', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO4` },
+  { id: 'bm-5', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO5` },
+  { id: 'bm-6', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO6` },
+  { id: 'bm-7', title: '', category: 'BrinMalte', type: 'video', src: `${CLOUD_BASE}/brinmalte/VIDEO7` },
 ]
 
 export default projects
